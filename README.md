@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes criminal charges involving **“obnoxiousness”** across **Adams, Fillmore, and Quincy counties** in calendar year 2022. The analysis was conducted in response to a judicial inquiry from Hon. Judge Bonjuris to understand **how long it takes for these cases to be resolved**, especially in felony or misdemeanor convictions.
+This project analyzes criminal charges involving **“obnoxiousness”** across **Adams, Fillmore, counties** in calendar year 2022. The analysis was conducted in response to a judicial inquiry from Hon. Judge Bonjuris to understand **how long it takes for these cases to be resolved**, especially in felony or misdemeanor convictions.
 
 The insights were visualized using **Power BI** and exported as a PDF report, which is included in this repository.
 
