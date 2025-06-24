@@ -14,7 +14,7 @@ The insights were visualized using **Power BI** and exported as a PDF report, wh
 |-----------------------------------------|-------------|
 | `Obnoxiousness_Convictions_Report.pdf`  | Final Power BI dashboard exported as PDF |
 | `Final_Obnoxiousness_Disposition_Data.xlsx` | Cleaned dataset used in the report |
-| `Original_Dataset.xlsx`                 | Raw charges and motions data (if applicable) |
+| `Dataset.xlsx`                 | Raw charges and motions data (if applicable) |
 | `Xlates.xlsx`                           | Code translations for UOR, counties, dispositions |
 | `README.md`                             | This documentation file |
 
@@ -67,5 +67,5 @@ This project is for educational and analytical purposes only. No real court data
 
 ## 📬 Contact
 
-For questions or feedback, feel free to connect via [LinkedIn](https://www.linkedin.com/) or raise an issue in this repository.
+For questions or feedback, feel free to connect via [LinkedIn](https://www.linkedin.com/in/venkata-ranga-sai-krishna-parcha/) or raise an issue in this repository.
 
