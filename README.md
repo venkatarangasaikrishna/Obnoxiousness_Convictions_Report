@@ -1,4 +1,4 @@
-# Obnoxiousness Convictions Report – CY 2022 (Kentucky 61st District)
+# Obnoxiousness Convictions Report – CY 2022
 
 ## 📌 Overview
 
