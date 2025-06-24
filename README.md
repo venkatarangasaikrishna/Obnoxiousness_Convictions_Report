@@ -14,7 +14,7 @@ The insights were visualized using **Power BI** and exported as a PDF report, wh
 |-----------------------------------------|-------------|
 | `Obnoxiousness_Convictions_Report.pdf`  | Final Power BI dashboard exported as PDF |
 | `Final_Obnoxiousness_Disposition_Data.xlsx` | Cleaned dataset used in the report |
-| `Dataset.xlsx`                 | Raw charges and motions data (if applicable) |
+| `Dataset.xlsx`                 | Raw charges and motions data  |
 | `Xlates.xlsx`                           | Code translations for UOR, counties, dispositions |
 | `README.md`                             | This documentation file |
 
